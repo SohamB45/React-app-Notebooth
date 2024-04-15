@@ -3,7 +3,7 @@
 - context API
 - connection to mongoDB etc.
 - react router
-- 
+ 
 
 + New features to be added
 + Interface to be enhanced
